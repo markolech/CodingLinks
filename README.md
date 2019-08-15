@@ -87,4 +87,6 @@ https://dev.to/yusufcodes/how-i-got-an-internship-in-software-development-as-a-c
 
 https://dev.to/triplebyte/how-i-got-a-software-engineering-job-without-work-experience-or-a-cs-degree-2ij4
 
+## Jobs
 
+https://www.planitsearch.com/planit-jobs/#s=1
