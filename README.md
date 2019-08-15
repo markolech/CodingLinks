@@ -80,3 +80,11 @@ https://facebook.github.io/react-native/docs/getting-started.html
 https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice
 
 https://webpack.js.org/guides/tree-shaking/
+
+https://hackernoon.com/marketing-204-for-engineers-generating-demand-27200085320c
+
+https://dev.to/yusufcodes/how-i-got-an-internship-in-software-development-as-a-computer-science-student-4587
+
+https://dev.to/triplebyte/how-i-got-a-software-engineering-job-without-work-experience-or-a-cs-degree-2ij4
+
+
