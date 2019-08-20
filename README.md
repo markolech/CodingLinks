@@ -86,3 +86,19 @@ https://hackernoon.com/marketing-204-for-engineers-generating-demand-27200085320
 https://dev.to/yusufcodes/how-i-got-an-internship-in-software-development-as-a-computer-science-student-4587
 
 https://dev.to/triplebyte/how-i-got-a-software-engineering-job-without-work-experience-or-a-cs-degree-2ij4
+
+## AWS
+
+https://aws-amplify.github.io/docs/js/storage
+
+https://aws-amplify.github.io/docs/js/authentication
+
+https://aws.amazon.com/cognito/
+
+https://aws-amplify.github.io/docs/js/authentication
+
+https://aws-amplify.github.io/docs/js/api#connect
+
+## UI
+
+https://react.semantic-ui.com/modules/modal/
