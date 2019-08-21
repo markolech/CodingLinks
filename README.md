@@ -99,6 +99,12 @@ https://aws-amplify.github.io/docs/js/authentication
 
 https://aws-amplify.github.io/docs/js/api#connect
 
+https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html
+
+https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html#audio
+
+https://github.com/alexa/skill-sample-nodejs-fact
+
 ## UI
 
 https://react.semantic-ui.com/modules/modal/
